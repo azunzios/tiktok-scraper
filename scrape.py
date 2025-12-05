@@ -261,5 +261,5 @@ def scrape_tiktok(profile_url):
         browser.close()
 
 if __name__ == "__main__":
-    url = "https://www.tiktok.com/@berlinibrahim"
+    url = "{your_url_here}"
     scrape_tiktok(url)
